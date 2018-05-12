@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/963
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
 description: Part of the Chronicles of Carlingford.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28006#The-Perpetual-Curate
 gutenberg_issued: '2009-02-05'
 gutenberg_type: Text
 identifiers:
